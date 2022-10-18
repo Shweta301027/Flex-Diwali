@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+.first {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(238, 177, 157);
+    height: 60px;
+    width: 100%;
+    color: rgb(106, 12, 12);
+    padding-top: 20px;
+    position: fixed;
+}
+
+.heading {
+    margin-left: 80px;
+    margin-top: 7px;
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 13px;
+}
+
+.right h3 {
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.content {
+    background-color: bisque;
+    height: 80vh;
+    border: 2px solid darksalmon;
+    display: flex;
+    padding-top: 50px;
+}
+
+.fest {
+    padding-top: 50px;
+    padding-left: 150px;
+    font-size: 35px;
+    font-weight: bolder;
+    color: rgb(171, 40, 40);
+
+
+}
+
+.para {
+    margin-top: 10px;
+    width: 450px;
+    font-size: 14px;
+    color: rgb(198, 39, 39);
+}
+
+.img {
+    width: 400px;
+    height: 300px;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.celebration-box {
+    margin: 30px;
+}
+
+.celebration {
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.pic1 {
+    width: 350px;
+    height: 250px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+
+}
+
+.pic2 {
+    width: 350px;
+    height: 250px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+
+}
+
+.pic3 {
+    width: 350px;
+    height: 250px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+
+}
+
+.pic4 {
+    width: 350px;
+    height: 250px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+
+}
+
+.pic5 {
+    width: 350px;
+    height: 250px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+.pic6 {
+    width: 350px;
+    height: 250px;
+    margin-left: 40px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: bisque;
+    height: 60px;
+    width: 100%;
+    color: rgb(139, 28, 28);
+    padding-top: 20px;
+
+}
+
+.Happiness {
+    margin-left: 60px;
+    margin-top: 10px;
+
+}
+
+.right p {
+    margin-left: 30px;
+    margin-right: 60px;
+}
+
+.insta {
+    color: #bc2a8d;
+}
+
+.linkdein {
+    color: #0A66C2;
+
+}
+
+.twitter {
+    color: #00acee;
+}
+
+.fb {
+    color: #3b5998;
+}
+
+.git {
+    color: #171515;
+}
